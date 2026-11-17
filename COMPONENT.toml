@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-theme-cursor"
-description = "SigmaOS subsystem component for theme-cursor"
+description = "Cursor theme pack & switcher"
 version = "0.1.0"
 tier = 5
 
